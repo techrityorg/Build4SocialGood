@@ -58,5 +58,5 @@ Congratulations!
 You've just submitted your project to the Techrity #Build4SocialGood Program! We cannot wait see what you've made over the last 15 days!
 
 ## Questions?
-If you have questions or comments, please reach out to us on Slack chat (#build4socialgood).
+If you have questions or comments, please reach out to us on Slack chat (#hackathon).
 
