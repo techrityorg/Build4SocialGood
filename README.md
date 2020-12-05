@@ -24,7 +24,7 @@ Clone that fork to your desktop.
 Create a branch named after your project.
 
 ### Step 3
-In the repo, there is one folder for each prize category. Open the folder that corresponds with the category you are submitting against.
+In the repo, open the hackathon folder for which you're currently participating, there is one folder for each prize category inside that folder. Open the folder that corresponds with the category you are submitting against.
 
 ### Step 4
 In the prize category folder, *create a new subfolder for your team's project.*
