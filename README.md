@@ -60,3 +60,5 @@ You've just submitted your project to the Techrity #Build4SocialGood Program! We
 
 ## Questions?
 If you have questions or comments, please reach out to us on [Slack chat](https://bit.ly/build-for-social-slack)(#hackathon).
+
+> This readme was redacted from the [ConsenSys - Road2Devcon Relay Repo](https://github.com/ConsenSys/Road-To-Devcon-Relay)
