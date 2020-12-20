@@ -1,0 +1,27 @@
+.hero_iot  {
+  width: 100%;
+  height: 700px;
+  background: url("/images/iotcenter.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+}
+.iot-card{
+  height: 70px;
+  width: 50px !important;
+}
+
+.card-img-top{
+  height: 340px;
+  width: 320px;
+}
+
+.iot-about{
+  margin-top: 450px;
+  background-color: green;
+}
+
+.iot-about .card{
+  height: 400px !important; 
+}

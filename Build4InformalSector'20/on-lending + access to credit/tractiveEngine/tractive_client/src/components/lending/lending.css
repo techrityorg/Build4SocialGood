@@ -1,0 +1,34 @@
+.lending-image{
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  margin-left: 85px !important;
+}
+
+.contactbtn{
+	  border: 0px solid white;
+        background: #84E917;
+        color: white;
+        padding: 15px 80px;
+        font-size: 22px;
+        cursor: pointer;
+        font-weight: bold;
+        line-height: 32px;
+        margin-top: 20px;
+}
+
+
+/*.contact-formHeader{
+	text-align: left;
+	margin-left: 265px;
+}
+*/
+
+@media (max-width: 979px) {
+	/*.contact-formHeader{
+	text-align: left;
+	margin-left: 35px;
+}
+*/
+
+}
