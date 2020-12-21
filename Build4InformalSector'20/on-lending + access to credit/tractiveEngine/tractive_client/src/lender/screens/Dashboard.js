@@ -2,9 +2,10 @@ import React from "react";
 import { Route, useRouteMatch, Switch } from "react-router-dom";
 
 import Navbar from "../components/Navbar";
-import SideNav from "../components/SideNav";
 import Overview from "./Overview";
 import LendingMarket from "./LendingMarket";
+import Footer from "../components/Footer";
+
 import "./Dashboard.css";
 
 const Dashboard = () => {
@@ -18,6 +19,7 @@ const Dashboard = () => {
         <Route path={`${url}/lending-market`} component={LendingMarket} exact />
         {/* <Route path={`${url}/patients/:id`} component={PatientProfile} /> */}
       </Switch>
+      <Footer />
     </div>
   );
 };
