@@ -1,0 +1,18 @@
+.lender-dashboard h1 {
+  font-size: 2em;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.lender-dashboard main {
+  padding: 0 7%;
+}
+
+main p.section-name {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.campaigns-container .campaign-item {
+  width: 23%;
+}

@@ -1,0 +1,31 @@
+#nurse-side-nav {
+    background-color: white;
+}
+
+#nurse-side-nav .side-nav-items {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#nurse-side-nav li a {
+    box-shadow: none
+}
+
+#nurse-side-nav .active {
+    background: rgb(91, 97, 242);
+    background: linear-gradient(80deg, rgba(91, 97, 242, 1) 35%, rgba(91, 152, 242, 1) 100%);
+    color: #fff;
+}
+
+#nurse-side-nav .active svg {
+    fill: white !important;
+}
+
+#nurse-side-nav .active svg polyline {
+    stroke: #5b61f2;
+}
+
+#nurse-side-nav .active svg path:nth-child(2) {
+    stroke: rgb(91, 97, 242);
+}
