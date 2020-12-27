@@ -1,0 +1,19 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.1.2/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyB5yfPviY89K9Ga_S_5DRlGiHMWNWKmKMI",
+    authDomain: "quikmoni-app.firebaseapp.com",
+    projectId: "quikmoni-app",
+    storageBucket: "quikmoni-app.appspot.com",
+    messagingSenderId: "422121301616",
+    appId: "1:422121301616:web:85d6e3417fa9fc15bfb6b5"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>

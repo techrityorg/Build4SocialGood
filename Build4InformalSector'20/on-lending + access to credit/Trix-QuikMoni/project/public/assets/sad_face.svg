@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97.661" height="97.661" viewBox="0 0 97.661 97.661">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_318" data-name="Ellipse 318" cx="48" cy="48" r="48" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1119" data-name="Group 1119" transform="translate(-151.17 -258.169)">
+    <path id="Path_1464" data-name="Path 1464" d="M48,0A48,48,0,1,1,0,48,48,48,0,0,1,48,0Z" transform="matrix(-1, 0.017, -0.017, -1, 248.83, 354.155)" fill="#ffe386"/>
+    <g id="Mask_Group_318" data-name="Mask Group 318" transform="matrix(-1, 0.017, -0.017, -1, 248.83, 354.155)" clip-path="url(#clip-path)">
+      <path id="Path_1462" data-name="Path 1462" d="M0,0H103.25l-.387,67.755c-.192,3.593-2.491,6.472-5.491,8.277L9.593,126.3Z" transform="translate(15.47 -54.951) rotate(30)" fill="#efb800"/>
+    </g>
+    <line id="Line_318" data-name="Line 318" y2="4.888" transform="matrix(-1, 0.017, -0.017, -1, 220.423, 319.516)" fill="none" stroke="#111" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_319" data-name="Line 319" y2="4.888" transform="matrix(-1, 0.017, -0.017, -1, 196.601, 319.932)" fill="none" stroke="#111" stroke-linecap="round" stroke-width="3"/>
+    <path id="Path_1463" data-name="Path 1463" d="M0,0A30.374,30.374,0,0,0,4.757.457,23.659,23.659,0,0,0,9.164,0" transform="matrix(-1, 0.017, -0.017, -1, 212.631, 328.207)" fill="none" stroke="#111" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>
