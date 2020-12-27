@@ -1,0 +1,10 @@
+GET /fleets/
+Host: localhost:2020
+Content-Type: application/json
+
+{
+
+        "email":"olabrazanislam@gmail.com",
+        "password":"123456"
+
+}

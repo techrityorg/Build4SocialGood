@@ -1,0 +1,162 @@
+main.lender-dashboard {
+  padding: 41px 3%;
+}
+
+.lender-dashboard h1 {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  margin-bottom: 80px;
+}
+
+main p.section-name {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+  color: #046307;
+  margin-bottom: 30px;
+}
+
+.campaign-list {
+  margin-bottom: 80px;
+}
+
+.lender-dashboard .campaign-items {
+  width: 88%;
+}
+
+.lender-dashboard .campaigns-container .campaign-item {
+  width: 30%;
+}
+.lender-dashboard .campaign-item {
+  color: #000000;
+  background: #ffffff;
+  box-shadow: 0px 0px 20px rgba(4, 99, 7, 0.4);
+  padding: 21px 20px;
+}
+
+.lender-dashboard .view-more-campaigns {
+  width: 12%;
+}
+
+.lender-dashboard .name-n-age {
+  margin-bottom: 20px;
+  padding-right: 15%;
+}
+
+.lender-dashboard .name-n-age span.name {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+}
+
+.lender-dashboard .name-n-age span.age {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+}
+
+.lender-dashboard .campaign-item p.loan-amount {
+  margin-bottom: 10px;
+}
+
+.lender-dashboard .campaign-item p.loan-amount span {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.lender-dashboard .campaign-item p.loan-amount span:nth-last-of-type(1) {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+  color: #046307;
+}
+
+.lender-dashboard .loan-progress .progress {
+  height: min-content;
+  margin-bottom: 10px;
+}
+.lender-dashboard .loan-progress .progress-bar {
+  background: rgba(0, 128, 0, 0.5);
+  border-radius: 20px;
+  height: 10px;
+}
+
+.lender-dashboard .campaign-item span.current-amount,
+.lender-dashboard .campaign-item span.amount-left {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  color: #046307;
+}
+
+.lender-dashboard .loan-progress {
+  margin-bottom: 20px;
+}
+.lender-dashboard .invest-button button {
+  background: #046307;
+  border-radius: 11px;
+  border-color: transparent;
+  padding: 6px 21px;
+
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+/* Investment portfolio */
+
+.portfolio-unit {
+  width: 82%;
+  margin-bottom: 45px;
+}
+
+.portfolio-column {
+  width: 100%;
+}
+
+.portfolio-unit .portfolio-item {
+  width: 32%;
+}
+
+.portfolio-item .portfolio-info {
+  margin-left: 20px;
+}
+
+.portfolio-item .portfolio-info p:nth-last-of-type(1) {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  color: #046307;
+}
+
+.portfolio-item .portfolio-info p.portfolio-title {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  color: rgba(0, 0, 0, 0.8);
+  margin-bottom: 10px;
+}
+
+.repayment-chart {
+  width: 82%;
+}
+
+.repayment-chart .progress {
+  height: min-content;
+  margin-bottom: 30px;
+}
+
+.repayment-chart .progress-bar {
+  background: rgba(0, 128, 0, 0.8);
+  border-radius: 20px;
+  height: 10px;
+}

@@ -1,0 +1,94 @@
+#user-register header nav.navbar {
+  padding: 20px 2%;
+}
+#user-register main {
+  padding: 100px 2% 100px;
+  background: url("..//..//assets/UserRegister/triangle.svg");
+  background-repeat: no-repeat;
+  background-position-y: bottom;
+}
+main .signup-header h1 {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 60px;
+  color: #046307;
+  width: 50%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+main .signup-header p {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+main .signup-header {
+  margin-bottom: 100px;
+}
+
+main .form-container {
+  width: 100%;
+  margin-left: 50px;
+  padding: 24px 125px 73px;
+  background: #ffffff;
+  box-shadow: 0px 4px 20px rgba(0, 128, 0, 0.3);
+}
+
+main .form-container .change-status {
+  margin-bottom: 50px;
+}
+
+main .form-container .change-status button {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 67px;
+  color: rgba(0, 128, 0, 0.8);
+}
+
+main .form-container .change-status .show-active {
+  height: 8px;
+  background: #c4c4c4;
+}
+main .userreg-form .form-group label {
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #04172a;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+main .userreg-form .form-group input {
+  border: 1.5px solid rgba(0, 0, 0, 0.8);
+  box-sizing: border-box;
+  border-radius: 8.44388px;
+  height: 70px;
+}
+
+main .userreg-form .form-group #agreedTC {
+  height: min-content;
+}
+
+main .userreg-form .buttons-container {
+  margin-top: 60px;
+}
+
+main .userreg-form .buttons-container button {
+  border: none;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px;
+
+  padding: 12px 25px;
+  background: #046307;
+  box-shadow: 0px 4px 15px rgba(119, 0, 119, 0.25);
+  border-radius: 15px;
+}

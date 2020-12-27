@@ -1,0 +1,382 @@
+.home-page {
+  font-family: "Poppins", sans-serif;
+}
+/* Hero section */
+.home-page #hero .hero-image img {
+  width: 710px;
+}
+
+.home-page main #hero {
+  padding: 0 2%;
+}
+
+#hero .hero-content h1.hero-heading {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  color: #046307;
+  margin-bottom: 20px;
+}
+
+#hero .hero-content p {
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21px;
+  font-family: "Roboto", sans-serif;
+}
+
+#hero .hero-content .getting-started-btn a {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+
+  border: none;
+  background: #046307;
+  border-radius: 15px;
+  padding: 7px 20px !important;
+}
+
+/* Why choose us */
+.home-page main #why-us {
+  margin-top: 125px;
+}
+.home-page main #why-us h2.section-header {
+  margin-bottom: 30px;
+  color: #046307;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+}
+.home-page main #why-us .why-us-container {
+  background: #046307;
+  padding: 67px 2%;
+}
+
+.home-page main #why-us .why-us-item {
+  width: 32%;
+  background: #ffffff;
+  box-shadow: 0px 0px 10px #ffffff;
+  padding: 25px 45px;
+}
+
+.home-page main #why-us .why-us-item h3 {
+  margin: 30px auto 10px;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.home-page main #why-us .why-us-item p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+/* Our process */
+.home-page main #our-process {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding: 0 2%;
+}
+.home-page main #our-process h2.section-header {
+  color: #046307;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+}
+.home-page main #our-process .lenders-process {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.home-page main #our-process .process-title {
+  margin-bottom: 30px;
+}
+.home-page main #our-process .process-title div {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 54px;
+  margin-left: 20px;
+}
+
+.home-page main #our-process .process-title span {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+  margin-left: 8px;
+}
+
+.home-page main #our-process .process-steps .step-item {
+  width: 23.5%;
+  padding: 95px 2.3%;
+  background: #ffffff;
+  box-shadow: 0px 0px 30px rgba(4, 99, 7, 0.4);
+  border-radius: 100%;
+  position: relative;
+}
+
+.home-page main #our-process .lendees-steps .step-item {
+  border-radius: 100%;
+  height: 320px;
+}
+
+#our-process .process-steps .step-item h3 {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  color: #046307;
+}
+
+#our-process .process-steps .step-item p {
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  color: rgba(0, 0, 0, 0.8);
+  margin-bottom: 10px;
+}
+
+#our-process .process-steps .step-item a.process-step-link {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  padding-left: 6px;
+  color: #046307;
+}
+
+#our-process .process-steps .step-item img {
+  position: absolute;
+  bottom: 20px;
+}
+
+/* Quote */
+.home-page main #quotes {
+  background: url(".//..//..//assets//farm.png");
+  background-position: center;
+  background-size: 100% 100%;
+  height: 500px;
+  margin-bottom: 328px;
+  padding-top: 350px;
+}
+
+.home-page main #quotes .quotes-content {
+  margin: 0 auto;
+  padding: 30px;
+  width: 54.44%;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.home-page main #quotes .quotes-content h3 {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.home-page main #quotes .quotes-content p {
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  /* Hero */
+  .home-page #hero .hero-image img {
+    width: 100%;
+  }
+
+  .home-page main #hero {
+    padding: 0 7.5%;
+  }
+
+  .home-page main #hero .hero-div {
+    flex-direction: column-reverse;
+  }
+
+  #hero .hero-content {
+    padding-top: 34px !important;
+    padding-bottom: 0px !important;
+  }
+
+  #hero .hero-content h1.hero-heading {
+    text-align: center;
+    font-size: 24px;
+    line-height: 36px;
+    width: 90%;
+    margin: 0 auto 10px;
+  }
+
+  #hero .hero-content p {
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    width: 90%;
+    margin: 0 auto 20px;
+  }
+
+  #hero .hero-content .getting-started-btn {
+    margin: 0;
+    text-align: center;
+  }
+
+  #hero .hero-content .getting-started-btn a {
+    font-size: 16px;
+    line-height: 25px;
+
+    border: none;
+    background: #046307;
+    border-radius: 15px;
+    padding: 6px 5% !important;
+  }
+
+  /* why us */
+  .home-page main #why-us {
+    margin-top: 80px;
+  }
+  .home-page main #why-us h2.section-header {
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 20px;
+  }
+
+  .home-page main #why-us .why-us-container {
+    background: #046307;
+    padding: 59px 7.5%;
+    flex-direction: column;
+  }
+
+  .home-page main #why-us .why-us-item {
+    width: 100%;
+    background: #ffffff;
+    box-shadow: 0px 0px 10px #ffffff;
+    padding: 42px 7%;
+    margin-bottom: 30px;
+  }
+  .home-page main #why-us .why-us-item:nth-last-of-type(1) {
+    margin: 0px;
+  }
+
+  .home-page main #why-us .why-us-item h3 {
+    margin: 20px auto 10px;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+  }
+
+  .home-page main #why-us .why-us-item p {
+    font-size: 14px;
+    line-height: 21px;
+  }
+
+  /* Our process */
+  .home-page main #our-process {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 0 7.5%;
+  }
+
+  .home-page main #our-process h2.section-header {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px;
+  }
+
+  .home-page main #our-process .lenders-process {
+    margin-top: 30px;
+    margin-bottom: 50px;
+  }
+
+  .home-page main #our-process .process-title {
+    margin-bottom: 30px;
+  }
+
+  .home-page main #our-process .process-title img {
+    width: 15%;
+    height: 10px;
+  }
+
+  .home-page main #our-process .process-title div {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px;
+  }
+
+  .home-page main #our-process .process-steps {
+    flex-direction: column;
+  }
+
+  .home-page main #our-process .process-steps .step-item {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .home-page main #our-process .process-steps .step-item:nth-last-of-type(1) {
+    margin: 0;
+  }
+
+  .home-page main #our-process .process-steps .step-item {
+    border-radius: 300px;
+    height: 320px;
+  }
+  #our-process .process-steps .step-item h3 {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+  }
+  #our-process .process-steps .step-item p {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+  }
+
+  /* Quote */
+  .home-page main #quotes {
+    position: relative;
+    margin-bottom: 244px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 340px;
+    padding-top: 165px;
+  }
+
+  .home-page main #quotes .quotes-content {
+    text-align: center;
+    margin: 0 auto !important;
+    padding: 30px 3.5%;
+    width: 90%;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .home-page main #quotes .quotes-content h3 {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px;
+    margin-bottom: 10px;
+  }
+  .home-page main #quotes .quotes-content p {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+  }
+}

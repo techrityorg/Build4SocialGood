@@ -1,0 +1,25 @@
+.lending-market-lender {
+  padding: 0 2%;
+}
+
+.lending-market-lender header h1 {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+}
+
+.lending-market-lender .sort-by svg {
+  width: 25px;
+  height: 20px;
+  max-height: 20px;
+  fill: #046307;
+  stroke: #046307;
+}
+
+.lending-market-lender main {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 20px;
+  grid-row-gap: 30px;
+}

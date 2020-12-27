@@ -1,0 +1,32 @@
+#campaign header nav.navbar {
+  padding: 20px 2%;
+}
+
+#campaign main {
+  padding: 0 2% 30px;
+}
+
+#campaign main .img-campaign img {
+  width: 100%;
+  height: 500px;
+}
+
+#campaign main .post-info {
+  border: 1px solid #c3dac4;
+}
+
+main .recomendation-unit {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+}
+
+main .recomendation-unit .recomendation-item {
+  border-radius: 20px;
+  background-color: #ffffff;
+  border: 1px solid #c3dac4;
+  padding: 10px 2px;
+  width: 100%;
+}
