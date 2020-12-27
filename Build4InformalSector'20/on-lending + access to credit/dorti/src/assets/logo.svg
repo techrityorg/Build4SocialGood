@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98.828" height="37.202" viewBox="0 0 98.828 37.202">
+  <g id="Group_11683" data-name="Group 11683" transform="translate(-146.172 -40.798)">
+    <text id="Dorti" transform="translate(187 71)" fill="#0b11c5" stroke="#0b11c5" stroke-width="1" font-size="24" font-family="ProductSans-Bold, Product Sans" font-weight="700"><tspan x="0" y="0">Dorti</tspan></text>
+    <g id="Group_1" data-name="Group 1" transform="matrix(0.848, -0.53, 0.53, 0.848, 143, 54.754)">
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(21.548 8.38)" fill="none" stroke="#0b11c5" stroke-width="2">
+        <ellipse cx="7.183" cy="7.183" rx="7.183" ry="7.183" stroke="none"/>
+        <ellipse cx="7.183" cy="7.183" rx="6.183" ry="6.183" fill="none"/>
+      </g>
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(0 5.986)" fill="none" stroke="#0b11c5" stroke-width="2">
+        <ellipse cx="10.176" cy="10.176" rx="10.176" ry="10.176" stroke="none"/>
+        <ellipse cx="10.176" cy="10.176" rx="9.176" ry="9.176" fill="none"/>
+      </g>
+      <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(16.76 0)" fill="none" stroke="#0b11c5" stroke-width="2">
+        <circle cx="4.788" cy="4.788" r="4.788" stroke="none"/>
+        <circle cx="4.788" cy="4.788" r="3.788" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
