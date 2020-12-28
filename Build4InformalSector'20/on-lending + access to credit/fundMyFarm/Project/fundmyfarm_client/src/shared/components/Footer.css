@@ -1,0 +1,147 @@
+footer.app-footer {
+  background: #046307;
+  padding: 125px 2% 33px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+}
+
+.app-footer .company-logo-n-socials {
+  width: 25%;
+}
+.app-footer .socials {
+  margin-top: 50px;
+}
+.app-footer .socials img {
+  margin-right: 20px;
+}
+
+.app-footer ul {
+  list-style: none;
+}
+
+.app-footer ul li {
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+
+.app-footer ul li:nth-of-type(1) {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  margin: 0;
+}
+
+.app-footer .supportetc,
+.app-footer .homeetc {
+  width: 12%;
+}
+
+.app-footer .contactusetc {
+  width: 17%;
+}
+
+.app-footer .newsletter {
+  width: 35%;
+}
+
+.app-footer .newsletter input {
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+
+.app-footer .newsletter button {
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+.app-footer .newsletter p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.app-footer .newsletter button {
+  background: #046307;
+  border: 3px solid #046307;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.73);
+}
+
+.app-footer .copy-right {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  margin-top: 75px;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  footer.app-footer {
+    padding: 77px 7.5%;
+  }
+  .app-footer .footer-wrapper {
+    flex-direction: column-reverse;
+  }
+
+  .app-footer .footer-wrapper .footer-item {
+    width: 100%;
+  }
+  .app-footer .newsletter {
+    margin-bottom: 50px;
+  }
+  .app-footer .newsletter p {
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .app-footer .newsletter button {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+  }
+
+  .app-footer ul li {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+  }
+
+  .app-footer ul li:nth-of-type(1) {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+  }
+
+  .app-footer .contactusetc {
+    margin-bottom: 30px;
+  }
+
+  .app-footer ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+
+  .app-footer div.company-logo-n-socials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .app-footer div.copy-right {
+    margin-top: 50px;
+  }
+}

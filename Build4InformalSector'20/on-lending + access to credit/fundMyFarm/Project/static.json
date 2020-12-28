@@ -1,0 +1,6 @@
+{ "root": "build/", 
+    "error_page": "error.html", 
+    "clean_urls": false, 
+    "https_only": true, 
+    "routes": { "/**": "index.html" } 
+}

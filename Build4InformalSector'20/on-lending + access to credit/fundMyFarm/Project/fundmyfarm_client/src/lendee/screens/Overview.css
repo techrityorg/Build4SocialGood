@@ -1,0 +1,49 @@
+main.lendee-dashboard {
+  padding: 41px 3%;
+}
+
+.lendee-dashboard h1 {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  margin-bottom: 30px;
+}
+
+.lendee-dashboard .overview-top {
+  margin-bottom: 40px;
+}
+
+.lendee-dashboard .overview-top .credit-score {
+  background-color: #046307;
+  color: #fff;
+  padding: 16px;
+
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+}
+
+.lendee-dashboard .overview-top .total-loan {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  color: rgba(0, 0, 0, 0.8);
+  padding: 16px;
+}
+
+.lendee-dashboard .overview-mid .social-share {
+  width: 47%;
+  background-color: #c3dac4;
+}
+
+.lendee-dashboard .overview-mid .add-files {
+  width: 47%;
+  background-color: #c3dac4;
+}
+
+.lendee-dashboard .overview-mid h3 {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+}

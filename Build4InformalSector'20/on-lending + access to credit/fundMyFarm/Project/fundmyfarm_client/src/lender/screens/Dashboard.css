@@ -1,0 +1,29 @@
+#dashboard {
+  height: 100%;
+}
+
+#dashboard .dashboard-container {
+  height: 100%;
+}
+
+#dashboard .main-content {
+  background-color: #ffffff;
+  height: 100%;
+  overflow-y: scroll !important;
+}
+
+/* .main-content::-webkit-scrollbar {
+  width: 30px;
+}
+
+.main-content::-webkit-scrollbar-track {
+  background: #f8f9fa;
+}
+
+.main-content::-webkit-scrollbar-thumb {
+  background: #f8f9fa;
+}
+
+.main-content::-webkit-scrollbar-thumb:hover {
+  background: #555;
+} */
