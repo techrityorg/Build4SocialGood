@@ -29,7 +29,7 @@
 
 ## Link to Ancillary Material
 
-- **Pitch Deck:**
+- **Pitch Deck:** https://docs.google.com/presentation/d/1m3scNcVhcFTgO7-3GegyO3TpsIxqgThUrA8ibNAQ3nM/edit?usp=sharing
 - **Video Demo:**
 - **Demo URL:** https://accelerate-dorty.herokuapp.com/
 - **Original GitHub repository:** https://github.com/AccelerateHub/dorty
