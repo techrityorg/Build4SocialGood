@@ -24,9 +24,13 @@ If some of your material cannot be uploaded to GitHub (ie. Google Slides, a pitc
 - **Pitch Deck:**
     https://venngage.net/ps/cooB3qRho4U/fundmyfarm-pitch-deck
 
-- **Video Demo:**
-    1. https://www.loom.com/share/cc091be3da06472baa8fce9357d822c2
-    2. https://www.loom.com/share/8f15757995364be481707770c2ef626a
+- **Product Video Demo:**
+    https://drive.google.com/file/d/1DZX9fsQSIUM5QvX8DusYfBb56JzfLAwQ/view?usp=drivesdk
+
+- **Pitch Video Demo:**
+    https://drive.google.com/file/d/1cmC6rbAj4Y6eAt5QhP_34-ToPTZAAzsr/view?usp=drivesdk
+
 - **Demo URL:**
     https://fundmyfarm.herokuapp.com/
+    
 ## Project Launch Page

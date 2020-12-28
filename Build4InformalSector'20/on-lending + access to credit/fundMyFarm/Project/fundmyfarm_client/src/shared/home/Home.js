@@ -33,7 +33,7 @@ function Home() {
               <p>
                 We help you grow doing what you love while helping others doing
                 it for you. How will you feel helping others grow while making
-                earning at same time? Definitely good! That is why we are here
+                earning at same time? Definitely good! That is why we are here.
               </p>
               <div className="getting-started-btn mt-4">
                 <Link
