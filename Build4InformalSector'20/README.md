@@ -1,11 +1,13 @@
-# Build for the Informal Sector (sdg9) 
+# Build for the Informal Sector (sdg9) Hackathon
 
-![Techrity Build For Informal Sector](https://i.imgur.com/ouvFILh.jpg)``
+![Techrity Build For Informal Sector](https://i.imgur.com/ouvFILh.jpg)
 
 ## Prize
+
 **$250**
 
 ## Timeline of Activities
+
 - Registration begins 1st December 2020 via [Hackathon Registration](https://bit.ly/build-for-social-hack)
 - Join the [slack channel](https://bit.ly/build-for-social-join-slack)
 - Hackathon Starts: 7 December 2020
